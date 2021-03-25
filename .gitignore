@@ -1,0 +1,7 @@
+node_modules/
+
+package-lock.json
+
+**/logs	
+*.log	
+*.log !important.log	

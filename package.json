@@ -1,0 +1,14 @@
+{
+  "name": "gaming",
+  "version": "1.0.0",
+  "description": "gaming website for gamers",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Aasim",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
