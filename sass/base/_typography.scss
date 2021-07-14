@@ -25,7 +25,7 @@ body {
 
     @include respond(tab-port) {
       letter-spacing: .5rem;
-      font-size: 5rem;
+      font-size: 3rem;
     }
   }
 
@@ -42,7 +42,7 @@ body {
 
     @include respond(phone) {
       letter-spacing: .3rem;
-      font-size: 5rem;
+      font-size: 2rem;
     }
   }
 }
